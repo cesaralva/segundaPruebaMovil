@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">pi-movil-grupo01</string>
+    <string name="login_saludo_ln1">¡Bienvenid@ de regreso a CheckIt!</string>
+    <string name="login_saludo_ln2">Por favor, ingresa tus credenciales.</string>
+    <string name="preguntaRegistro">¿No estás registrado?</string>
+    <string name="loginSugerencia">También puedes usar las siguientes plataformas</string>
+    <string name="login_saludo_registro_ln1">¡Es un gusto tenerte con nosotros!</string>
+    <string name="login_saludo_registro_ln2">Por favor, completa el formulario de registro.</string>
+    <string name="title_activity_dashboard">DashboardActivity</string>
+    <string name="title_activity_register">RegisterActivity</string>
+
+    <string name="task_dialog_task_title_hint">Título</string>
+    <string name="task_dialog_task_description_hint">Descripción</string>
+    <string name="task_dialog_task_due_date_hint">Fecha de vencimiento</string>
+    <string name="task_dialog_project_add_hint">Nuevo Proyecto</string>
+    <string name="task_dialog_task_add_hint">Agregar Tarea</string>
+    <string name="task_dialog_task_project_hint">Agregar Proyecto</string>
+    <string name="task_high_priority">Alta</string>
+    <string name="task_mid_priority">Media</string>
+    <string name="task_low_priority">Baja</string>
+
+    <string name="project_dialog_color_selector_title">Genere un color para su proyecto</string>
+
+
+</resources>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="red">#FF0000</color>
+    <color name="gray">#999999</color>
+
+    <color name="background_app">#E4EEE5</color>
+    <color name="button">#224699</color>#224675
+    <color name="button_dark">#224665</color>
+    <color name="button_light">#4BA1ED</color>
+    <color name="logo">#00cca7</color>
+    <color name="p1_background">#FF5252</color>
+    <color name="p2_background">#FF9800</color>
+    <color name="p3_background">#8BC34A</color>
+</resources>
